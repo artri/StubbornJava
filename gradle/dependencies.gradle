@@ -12,7 +12,7 @@ ext {
         handlebars        : '4.1.2',       // HTML templating
         htmlCompressor    : '1.5.2',       // HTML compression
         hikaricp          : '3.4.1',       // JDBC connection pool
-        jool              : '0.9.12',      // Functional Utils
+        jool              : '0.9.14',      // Functional Utils
         hsqldb            : '2.3.4',       // In memory SQL db
         aws               : '1.11.419',    // AWS Java SDK
         flyway            : '5.1.4',       // DB migrations
